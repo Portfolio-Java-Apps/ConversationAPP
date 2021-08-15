@@ -46,7 +46,11 @@
         </dependency>
 
     </dependencies>
-
+    <scm>
+        <connection>scm:git:https://gclopes1978@github.com/portfolio-Java-Apps/ConversationAPP.git</connection>
+        <developerConnection>scm:git:https://gclopes1978@github.com/portfolio-Java-Apps/ConversationAPP.git
+        </developerConnection>
+    </scm>
     <build>
         <plugins>
             <plugin>
